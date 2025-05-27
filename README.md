@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pramit Bose
-- 👀 I’m interested in AI & Machine learning
-- 🌱 I’m currently learning about AI, Machine learning and Deep learning
-- 💞️ I’m looking to collaborate on Google Summer of Code (GSoC) and other open source projects
+- 👋 Hi, I’m Pramit Bose.
+- 👀 I’m interested in AI & Machine learning.
+- 🌱 I’m currently learning about AI, Machine learning and Deep learning.
+- 💞️ I’m looking to collaborate on Google Summer of Code (GSoC) and other open source projects.
 - 📫 My linkedlin profile - https://www.linkedin.com/in/pramit-bose-4ba56a209/
 
 <!---
