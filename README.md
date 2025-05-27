@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pramitbose2024
+- 👋 Hi, I’m Pramit Bose
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning about AI, Machine learning and Deep learning
 - 💞️ I’m looking to collaborate on Google Summer of Code (GSoC) ans other open source projects
