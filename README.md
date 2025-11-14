@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pramit Bose.
-- 👀 I’m a passionate AI Engineer & Independent Researcher.
+- 👀 I’m a passionate AI Engineer & Researcher.
 - 🌱 I’m currently working on AI, Machine learning, and Deep learning.
 - 💞️ I’m looking to collaborate on Google Summer of Code (GSoC) and other open source projects.
 - 📫 My linkedlin profile - https://www.linkedin.com/in/pramit-bose-4ba56a209/
