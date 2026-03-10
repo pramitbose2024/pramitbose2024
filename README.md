@@ -78,6 +78,7 @@ I’m open to collaborating on:
 I actively work on **AI projects and research-oriented implementations** in areas like:
 
 - Natural Language Processing (NLP)
+- Computer Vison (CV)
 - Deep Learning Architectures
 - AI Systems Engineering
 - Intelligent Automation
