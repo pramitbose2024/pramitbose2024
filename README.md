@@ -1,10 +1,95 @@
-- 👋 Hi, I’m Pramit Bose.
-- 👀 I’m a passionate AI/ML Engineer & Researcher.
-- 🌱 I’m currently working on projects & researcher papers in the areas - AI, Machine learning, & Deep learning.
-- 💞️ I’m looking to collaborate on Google Summer of Code (GSoC) and other open source projects.
-- 📫 My linkedlin profile - https://www.linkedin.com/in/pramit-bose-4ba56a209/
+# 👋 Hi, I'm Pramit Bose
 
-<!---
-pramitbose2024/pramitbose2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **AI Engineer | Machine Learning | Deep Learning | Robotics**
+
+I am an **AI Engineer and researcher** with deep expertise in **Artificial Intelligence, Machine Learning, Deep Learning, and Robotics**.  
+I focus on building intelligent systems, developing AI models, and conducting research that pushes the boundaries of AI technology.
+
+My work revolves around **AI engineering, research, and building real-world intelligent systems.**
+
+---
+
+## 🔬 Current Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Robotics
+- AI Research & Publications
+
+I am currently working on **AI projects and research papers** focused on advanced machine learning and deep learning systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- Python
+- Java
+
+### Machine Learning & NLP Frameworks
+- PyTorch
+- TensorFlow
+- Keras
+- scikit-learn
+- Hugging Face Transformers
+
+### Data Analysis
+- NumPy
+- Pandas
+
+### Databases
+- SQL
+
+### Tools & Platforms
+- Git
+- Kaggle
+- Jupyter Notebook
+- Google Colab
+- OpenML
+- MLflow
+- LangChain
+
+---
+
+## 🧠 What I Do
+
+- Build **AI and Machine Learning systems**
+- Develop **Deep Learning models**
+- Work on **AI research and experimentation**
+- Build **intelligent and autonomous systems**
+- Explore **robotics + AI integration**
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+
+- **Google Summer of Code (GSoC)**
+- AI/ML Open Source Projects
+- Research-driven AI initiatives
+- Innovative AI systems and robotics projects
+
+---
+
+## 📚 Research & Projects
+
+I actively work on **AI projects and research-oriented implementations** in areas like:
+
+- Natural Language Processing (NLP)
+- Deep Learning Architectures
+- AI Systems Engineering
+- Intelligent Automation
+- Robotics + AI
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/pramit-bose-4ba56a209/
+
+---
+
+⭐ **Always exploring new ideas in AI, building intelligent systems, and pushing the boundaries of machine intelligence.**
