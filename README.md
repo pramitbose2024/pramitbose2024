@@ -33,6 +33,7 @@ I am currently working on **AI projects and research papers** focused on advance
 - Keras
 - scikit-learn
 - Hugging Face Transformers
+- LangChain
 
 ### Data Analysis
 - NumPy
@@ -48,7 +49,6 @@ I am currently working on **AI projects and research papers** focused on advance
 - Google Colab
 - OpenML
 - MLflow
-- LangChain
 
 ---
 
