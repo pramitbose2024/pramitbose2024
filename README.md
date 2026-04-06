@@ -12,6 +12,7 @@ My work revolves around **AI engineering, research, and building real-world inte
 ## 🔬 Current Focus
 
 - Artificial Intelligence
+- Generative AI
 - Machine Learning
 - Deep Learning
 - Robotics
