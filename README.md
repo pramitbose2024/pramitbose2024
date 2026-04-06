@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pramit Bose
 
-🚀 **AI Engineer | Machine Learning | Deep Learning | Robotics**
+🚀 **AI Engineer | Generative AI | Machine Learning | Deep Learning | Robotics**
 
 I am an **AI Engineer and researcher** with deep expertise in **Artificial Intelligence, Machine Learning, Deep Learning, and Robotics**.  
 I focus on building intelligent systems, developing AI models, and conducting research that pushes the boundaries of AI technology.
