@@ -7,7 +7,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 
 ---
 
@@ -80,7 +80,7 @@ LSTM-based next-word prediction system designed to learn sequential language pat
 
 | Category | Technologies |
 |---|---|
-| Languages | Python, Java |
+| Languages | Python, C++ |
 | ML / DL Frameworks | PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face Transformers |
 | Generative AI & Agentic Systems | LangChain, RAG pipelines (ChromaDB) |
 | Data & Analytics | NumPy, Pandas, SQL |
