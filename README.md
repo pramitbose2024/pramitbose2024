@@ -85,7 +85,7 @@ LSTM-based next-word prediction system designed to learn sequential language pat
 | Generative AI & Agentic Systems | LangChain, RAG pipelines (ChromaDB, FAISS) |
 | Data & Analytics | NumPy, Pandas, SQL |
 | Tools & Platforms | VS Code, Jupyter Notebook, Google Colab, Kaggle, Streamlit |
-| Research Areas | NLP, Legal AI, RAG system evaluation, sequence model architectures, Reinforcement Learning |
+| Research Areas | NLP, Legal AI, Multimodal AI, RAG system evaluation, sequence model architectures, Reinforcement Learning |
 
 ---
 
