@@ -15,7 +15,7 @@
 
 I build and ship AI systems, and I dig into the architectural reasoning behind them. My work spans applied NLP engineering — RAG pipelines, conversational memory, evaluation frameworks — and research into legal AI and judicial document intelligence, where I'm interested in how architectural decisions (sequence models vs. retrieval-augmented generation, hierarchical labeling schemes) translate into measurable differences in accuracy, latency, and reliability.
 
-I'm a final-year B.Tech Computer Science student at Techno India University, currently working as a Research Intern at IIEST Shibpur on NLP for the Indian judicial system. Open to AI Engineer and research-adjacent roles where I can both build production systems and study why they perform the way they do.
+I'm a CS grad, currently working as a Research Intern at IIEST Shibpur on NLP for the Indian judicial system. Open to AI Engineer and research-adjacent roles where I can both build production systems and study why they perform the way they do.
 
 ---
 
