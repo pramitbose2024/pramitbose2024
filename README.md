@@ -21,11 +21,13 @@ I'm a final-year B.Tech Computer Science student at Techno India University, cur
 
 ## Research Interests
 
-- **Legal NLP & Judicial Document Intelligence** — rhetorical role labeling, petition analysis, and outcome prediction for Indian court case documents
+- **Artificial General Intelligence (AGI)** - general-purpose learning architectures, reasoning, planning, memory, tool use, autonomous agents, and human-aligned intelligent systems
 - **Retrieval-Augmented Generation** — retrieval strategy design (MMR, hybrid retrieval), context grounding, and hallucination mitigation
 - **Evaluation Methodology for LLM Systems** — LLM-as-judge frameworks, retrieval accuracy and groundedness benchmarking
 - **Comparative Architecture Studies** — sequence models (RNN/LSTM) vs. transformer-based retrieval architectures for QA and language generation
 - **Low-Resource & Domain-Adapted NLP** — adapting general-purpose architectures to specialized corpora (legal text, enterprise policy documents)
+- **Reinforcement Learning & Sequential Decision Making** — policy optimization, reward modeling, reinforcement learning from human feedback (RLHF), and multi-agent learning for intelligent autonomous systems
+- **Robotics & Embodied AI** - robot learning, perception, planning, sensor fusion, vision-language-action models, and autonomous decision-making for real-world robotic systems
 
 ---
 
